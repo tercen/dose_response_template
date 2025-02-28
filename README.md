@@ -1,5 +1,9 @@
-# Tercen workflow template
+# Dose-Response Template
 
-Check the [developer's guide](https://tercen.github.io/developers_guide/building-a-template.html) to learn how to develop a Tercen wortkflow template.
+## Description
 
-A full working example (including workflows and unit tests) can be found [here: simple_workflow_template](https://github.com/tercen/simple_workflow_template).
+This template performs a simple dose-response analysis and displays the results.
+
+## Required input
+
+A table containing three columns corresponding the the dose, the response, and an optional grouping factor.

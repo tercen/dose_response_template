@@ -1,0 +1,107 @@
+{
+ "kind": "TableSchema",
+ "id": "2e6151a1a9827715a186c66d8e2b54d00b5673a4476d4ab5d97115d6760eb437",
+ "isDeleted": false,
+ "rev": "",
+ "description": "",
+ "name": "DRC Data",
+ "acl": {
+  "kind": "Acl",
+  "owner": "",
+  "aces": []
+ },
+ "createdDate": {
+  "kind": "Date",
+  "value": ""
+ },
+ "lastModifiedDate": {
+  "kind": "Date",
+  "value": ""
+ },
+ "urls": [],
+ "tags": [],
+ "meta": [
+  {
+   "kind": "Pair",
+   "key": "SHA256",
+   "value": "2e6151a1a9827715a186c66d8e2b54d00b5673a4476d4ab5d97115d6760eb437"
+  }
+ ],
+ "url": {
+  "kind": "Url",
+  "uri": ""
+ },
+ "version": "",
+ "isPublic": false,
+ "projectId": "",
+ "folderId": "6",
+ "nRows": 25,
+ "columns": [
+  {
+   "kind": "ColumnSchema",
+   "id": "cb24690b-a0e6-4785-a19b-98a347c43578",
+   "name": "type",
+   "type": "string",
+   "nRows": 0,
+   "size": -1,
+   "metaData": {
+    "kind": "ColumnSchemaMetaData",
+    "sort": [],
+    "ascending": true,
+    "quartiles": [],
+    "properties": []
+   }
+  },
+  {
+   "kind": "ColumnSchema",
+   "id": "f9e424c9-ef92-4445-9c14-ab70cded5cd0",
+   "name": "conc",
+   "type": "double",
+   "nRows": 0,
+   "size": -1,
+   "metaData": {
+    "kind": "ColumnSchemaMetaData",
+    "sort": [],
+    "ascending": true,
+    "quartiles": [],
+    "properties": []
+   }
+  },
+  {
+   "kind": "ColumnSchema",
+   "id": "7b6c9cf5-9ad4-4baf-8e76-b7b1d98de1fd",
+   "name": "total",
+   "type": "double",
+   "nRows": 0,
+   "size": -1,
+   "metaData": {
+    "kind": "ColumnSchemaMetaData",
+    "sort": [],
+    "ascending": true,
+    "quartiles": [],
+    "properties": []
+   }
+  },
+  {
+   "kind": "ColumnSchema",
+   "id": "9702cea4-9ae4-48bf-9e76-80eb18087d79",
+   "name": "dead",
+   "type": "double",
+   "nRows": 0,
+   "size": -1,
+   "metaData": {
+    "kind": "ColumnSchemaMetaData",
+    "sort": [],
+    "ascending": true,
+    "quartiles": [],
+    "properties": []
+   }
+  }
+ ],
+ "dataDirectory": "data/2e/61/2e6151a1a9827715a186c66d8e2b54d00b5673a4476d4ab5d97115d6760eb437",
+ "relation": {
+  "kind": "Relation",
+  "id": "7c30971f-893a-49ff-a6f4-64036d85e65d"
+ },
+ "size": 1160
+}
